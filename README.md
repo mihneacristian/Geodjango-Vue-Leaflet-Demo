@@ -14,5 +14,5 @@ The project shows how we can build an API using Django/GeoDjango, the Django Res
 - Vue Leaflet
 
 <p align="center">
-<img src="https://media.giphy.com/media/94qa7yE8C0mTORHC1g/giphy.gif" width="780" height="434" />
+<img src="https://media.giphy.com/media/94qa7yE8C0mTORHC1g/giphy.gif" width="480" height="234" />
 </p>
