@@ -1,1 +1,1 @@
-# Geodjango-Vue-Leaflet-Demo
+# Django_Leaflet_Vue_Demo
