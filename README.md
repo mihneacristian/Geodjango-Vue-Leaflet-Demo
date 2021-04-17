@@ -2,7 +2,7 @@
 
 ## About: 
 
-This project shows how to use Leaflet maps in a Django project. I use a simple Book model to illustrate different model fields and how they can be used across different parts of Django, such as views, forms, urls and templates. I will also be using additional models such as Author, Publisher and Like to illustrate various types of relations and how they can work together.
+The project shows how we can build an API using Django/GeoDjango, the Django Rest framework, Django-rest-framework-gis, and output data (from a PostgreSQL database) in a format that is GeoJSON compatible. The API is used in a Vue application which displays data randomly on a web map (Leaflet) using polling.
 
 ## Map data:
 - 30 random locations in Berlin
